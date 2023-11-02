@@ -1,0 +1,10 @@
+收到client发送的数据: HELLO,HELLO,HELLO There is a 60% probability that the population will be infected with the disease. HELLO,HELLO,HELLO
+收到client发送的数据: HELLO,HELLO,HELLO There is a 60% probability that the population will be infected with the disease. HELLO,HELLO,HELLO
+收到client发送的数据: HELLO,HELLO,HELLO There is a 60% probability that the population will be infected with the disease. HELLO,HELLO,HELLO
+收到client发送的数据: HELLO,HELLO,HELLO There is a 60% probability that the population will be infected with the disease. HELLO,HELLO,HELLO
+收到client发送的数据: HELLO,HELLO,HELLO There is a 60% probability that the population will be infected with the disease. HELLO,HELLO,HELLO
+收到client发送的数据: HELLO,HELLO,HELLO There is a 60% probability that the population will be infected with the disease. HELLO,HELLO,HELLO
+收到client发送的数据: HELLO,HELLO,HELLO There is a 60% probability that the population will be infected with the disease. HELLO,HELLO,HELLO
+收到client发送的数据: HELLO,HELLO,HELLO There is a 60% probability that the population will be infected with the disease. HELLO,HELLO,HELLO
+收到client发送的数据: HELLO,HELLO,HELLO There is a 60% probability that the population will be infected with the disease. HELLO,HELLO,HELLO
+收到client发送的数据: HELLO,HELLO,HELLO There is a 60% probability that the population will be infected with the disease. HELLO,HELLO,HELLO
